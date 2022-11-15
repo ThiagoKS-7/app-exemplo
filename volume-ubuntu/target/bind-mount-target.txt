@@ -1,1 +1,0 @@
-docker run -it --mount type=bind,source=/app/volume-ubuntu/target,target=/app ubuntu bash
